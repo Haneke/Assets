@@ -2,13 +2,13 @@
 
 ---
 
-![fit](the haneke.jpg)
+![fit](http://pixel.nymag.com/imgs/daily/vulture/2012/12/07/07-michael-haneke.o.jpg/a_560x0.jpg)
 
 ^This is filmmaker Michael Haneke, director of movies like Funny Games, Amour and Cache.
 
 ---
 
-![inline](haneke-icon.png)
+![inline](https://raw.githubusercontent.com/Haneke/Assets/master/Design/haneke-icon-rounded-1024.png)
 
 *github.com/Haneke*
 
@@ -48,7 +48,7 @@ A lightweight *zero-config* image cache for iOS.
 
 #Available today
 
-![right](happy-haneke.jpg)
+![right](http://i.huffpost.com/gen/948355/thumbs/o-MICHAEL-HANEKE-TWITTER-facebook.jpg)
 
 ^For those who already use, I'm excited to announce that Haneke reaches version one right here at NSSpain.
 
@@ -58,11 +58,11 @@ A lightweight *zero-config* image cache for iOS.
 
 @oriolblanc @joanromano @lascorbe @hpique 
 
-![inline](realm-icon.png)
+![inline](https://avatars3.githubusercontent.com/u/7575099)
 
 github.com/realm/summer-of-swift
 
-^This summer JP's company Realm invited developers to learn Swift by doing. Oriol Blanc, Joan Romano, Luis Ascobe and myself, Hermes Pique, decided to rethink Haneke in pure Swift. 
+^This summer JP's company Realm invited developers to learn Swift by doing. Oriol Blanc, Joan Romano, Luis Ascorbe and myself, Hermes Pique, decided to rethink Haneke in pure Swift. 
 
 ---
 <br>
@@ -98,7 +98,7 @@ With all the features of its Objective-C counterpart*
 *`let cache = Cache<String>("text")`*
 
 
-![inline](haneke-hand.jpg)
+![inline](http://ocio.lne.es/img_contenido/noticias/2012/09/114998/2012_09_05_IMG_2012_09_05_153A133A41_hanecke_27.jpg)
 
 ^So now you can cache images, data, strings, or anything that can be saved to disk.
 
@@ -181,19 +181,21 @@ func onMemoryWarning() {
 
 ^And of course, we abuse tuples. They're great to save boilerplate internal code.
 
+^Here we iterate over a dictionary of tuples, and leveraging the amazing underscore we only focus on the part of the tuple we need.
+
 --- 
 
 ##And more
 
 * *@autoclosure*s to optimize performance
 * test *expectations*
-* mock
+* *mocking* with function classes
 * *bitwise* operations
 * *structs* as *namespaces*
 * *extensions*
 * interaction with *C APIs*
 
-![right](haneke-jolly.jpg)
+![right](http://htmlgiant.com/wp-content/uploads/2010/01/hanekejolly.jpg)
 
 ^This barely scratches the surface. We used lots of other Swift things and techniques, such as autoclosures, mocking, structs as namespaces, and more.
 
@@ -201,14 +203,14 @@ func onMemoryWarning() {
 
 #Takeaways
 
-![inline](haneke-prize.jpg)
+![inline](http://www.justsuperstar.com/michael_haneke/photo/haneke4.jpg)
 
 ^So, what did we learn?
 
 ---
 #Swift is not *finished*
 
-![left](haneke-disbelief.jpg)
+![left](https://vjmorton.files.wordpress.com/2007/09/michael_haneke-1.jpg)
 
 ^We learned that Swift is far from finished.
 
@@ -230,7 +232,7 @@ BAD
 
 #Change *beyond* functional
 
-![inline](haneke-passionate.jpg)
+![inline](http://www.news.at/_storage/asset/1057014/storage/newsat:key-visual/file/12300274/michael-haneke-der-meister-verstoerung-322863_e.jpg)
 
 ^But most importantly, we learned that learning Swift is more than learing functional programming.
 
@@ -263,10 +265,10 @@ to
 
 ---
 
-![inline](haneke-icon.png)
+![inline](https://raw.githubusercontent.com/Haneke/Assets/master/Design/haneke-icon-rounded-1024.png)
 
 *github.com/Haneke*
 
 ^If you would like to join us in learning Swif, and contribute to a kick-ass cache library, we invite you to visit github dot com slash Haneke, fork the project and submit pull requests.
 
-^Thanks you!
+^Thank you!
