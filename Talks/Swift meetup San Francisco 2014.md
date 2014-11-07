@@ -329,7 +329,7 @@ let cache = Cache<NSDictionary>(name: "dictionaries")
 
 #Contributors
 
-@joanromaro
+@joanromano
 @oriolblanc
 @hpique
 @lascorbe
